@@ -1,1 +1,1 @@
-A basic sketch recognizer. Relevant paper, data and python code included. [Implementation of paper](https://github.com/HPrinz/sketch-recognition)
+This is the code for a programming competition [Osama Afzal](https://github.com/OAfzal), [Hasnain Naeem](https://github.com/hasnainnaeem) and I took part in which we had to train a model in 2 days to detect and classify hand made sketches. We ended up achieving 72% accuracy and became the runner-ups in the competition.
